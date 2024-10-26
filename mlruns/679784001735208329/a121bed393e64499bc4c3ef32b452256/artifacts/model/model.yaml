@@ -1,0 +1,9 @@
+messages:
+- content: Translate the following sentences into Spanish
+  role: system
+- content: '{user_input}'
+  role: user
+model: gpt-4o
+parameters:
+  temperature: 0.0
+task: chat.completions

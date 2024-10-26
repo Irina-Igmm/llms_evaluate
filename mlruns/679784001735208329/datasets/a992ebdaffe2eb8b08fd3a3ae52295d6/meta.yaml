@@ -1,0 +1,8 @@
+digest: 7a35a5d5
+name: dataset
+profile: '{"num_rows": 4, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "llm_inputs", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "l.ravelojaona", "mlflow.source.name": "evaluate_v1.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

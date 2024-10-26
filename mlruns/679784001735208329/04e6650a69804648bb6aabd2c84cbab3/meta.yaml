@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/l.ravelojaona/Documents/MLFlow/mlruns/679784001735208329/04e6650a69804648bb6aabd2c84cbab3/artifacts
+end_time: 1729675230331
+entry_point_name: ''
+experiment_id: '679784001735208329'
+lifecycle_stage: active
+run_id: 04e6650a69804648bb6aabd2c84cbab3
+run_name: bedecked-dolphin-177
+run_uuid: 04e6650a69804648bb6aabd2c84cbab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729675225747
+status: 3
+tags: []
+user_id: l.ravelojaona

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/l.ravelojaona/Documents/MLFlow/mlruns/679784001735208329/0be25158df3e4adc80dfce9bac7a6856/artifacts
+end_time: 1729668667733
+entry_point_name: ''
+experiment_id: '679784001735208329'
+lifecycle_stage: active
+run_id: 0be25158df3e4adc80dfce9bac7a6856
+run_name: stylish-elk-490
+run_uuid: 0be25158df3e4adc80dfce9bac7a6856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729668659113
+status: 3
+tags: []
+user_id: l.ravelojaona

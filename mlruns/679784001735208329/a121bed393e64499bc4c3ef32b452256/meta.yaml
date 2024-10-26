@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/l.ravelojaona/Documents/MLFlow/mlruns/679784001735208329/a121bed393e64499bc4c3ef32b452256/artifacts
+end_time: 1729675251513
+entry_point_name: ''
+experiment_id: '679784001735208329'
+lifecycle_stage: active
+run_id: a121bed393e64499bc4c3ef32b452256
+run_name: crawling-rook-380
+run_uuid: a121bed393e64499bc4c3ef32b452256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729675246717
+status: 3
+tags: []
+user_id: l.ravelojaona

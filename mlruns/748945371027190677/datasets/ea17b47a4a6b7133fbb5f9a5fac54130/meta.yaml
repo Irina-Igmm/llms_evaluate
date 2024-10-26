@@ -1,0 +1,8 @@
+digest: 329d526a
+name: dataset
+profile: '{"num_rows": 3, "num_elements": 6}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "question", "required": true},
+  {"type": "array", "items": {"type": "string"}, "name": "source", "required": true}]}'
+source: '{"tags": {"mlflow.user": "l.ravelojaona", "mlflow.source.name": "rag_with_sources_eval_embeddings.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

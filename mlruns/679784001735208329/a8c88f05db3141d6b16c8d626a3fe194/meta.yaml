@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/l.ravelojaona/Documents/MLFlow/mlruns/679784001735208329/a8c88f05db3141d6b16c8d626a3fe194/artifacts
+end_time: 1729669333530
+entry_point_name: ''
+experiment_id: '679784001735208329'
+lifecycle_stage: active
+run_id: a8c88f05db3141d6b16c8d626a3fe194
+run_name: sassy-whale-880
+run_uuid: a8c88f05db3141d6b16c8d626a3fe194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729669328367
+status: 3
+tags: []
+user_id: l.ravelojaona

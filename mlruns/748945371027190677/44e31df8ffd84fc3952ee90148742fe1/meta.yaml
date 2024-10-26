@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/l.ravelojaona/Documents/MLFlow/mlruns/748945371027190677/44e31df8ffd84fc3952ee90148742fe1/artifacts
+end_time: 1729780072929
+entry_point_name: ''
+experiment_id: '748945371027190677'
+lifecycle_stage: active
+run_id: 44e31df8ffd84fc3952ee90148742fe1
+run_name: powerful-ram-844
+run_uuid: 44e31df8ffd84fc3952ee90148742fe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729780066614
+status: 3
+tags: []
+user_id: l.ravelojaona
