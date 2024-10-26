@@ -1,8 +1,0 @@
-digest: fce5cbbf
-name: dataset
-profile: '{"num_rows": 3, "num_elements": 3}'
-schema: '{"mlflow_colspec": [{"type": "string", "name": "llm_inputs", "required":
-  true}]}'
-source: '{"tags": {"mlflow.user": "l.ravelojaona", "mlflow.source.name": "evaluate_rag.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code
